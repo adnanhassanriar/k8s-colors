@@ -4,4 +4,4 @@ metadata:
   name: website-html
 data:
   index.html: |
-    <html><body><h1>Hello from ArgoCD!</h1></body></html>
+    <html><body><h1>Hello Adnan from ArgoCD!</h1></body></html>
